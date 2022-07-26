@@ -1,0 +1,6 @@
+<launch>
+
+  <include file="$(find course_agv_slam_task)/launch/ekf_all.launch"></include>
+  <include file="$(find course_agv_nav)/launch/nav.launch"></include>
+
+</launch>

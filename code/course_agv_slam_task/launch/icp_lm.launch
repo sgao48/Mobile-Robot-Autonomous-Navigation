@@ -1,0 +1,16 @@
+<launch>
+
+	<node pkg="course_agv_slam_task" type="icp_lm" name="icp_lm" output="screen">
+		
+		<!--from a rosbag-->
+		<param name="robot_x" value="0"/>
+		<param name="robot_y" value="0"/>
+		<param name="robot_theta" value="0"/>
+
+		<param name="max_iter" value="30"/>
+		<param name="tolerance" value="1e-5"/>
+		<param name="dis_th" value="0.5"/>
+		<param name="min_match" value="3"/>
+	</node>
+
+</launch>
