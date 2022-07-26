@@ -115,16 +115,16 @@ code:
 ### **1. Simple Navigation**
 Only the initial and destination coordinates are known.
 
-<video src="./video/simple navigation.mp4" controls="controls" width=450> </video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ZIziGf21wMk/0.jpg)](https://www.youtube.com/watch?v=ZIziGf21wMk "simple navigation")
 
 ### **2. Dynamic Environment**
 Only the initial and destination coordinates are known.
 Dynamically add obstacle while robot is navigating.
 
-<video src="./video/dynamic environment.mp4" controls="controls" width=450> </video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/XXrIsXJHjqU/0.jpg)](https://www.youtube.com/watch?v=XXrIsXJHjqU "dynamic environment")
 
 ### **3. Replanning**
 Only the initial and destination coordinates are known.
 The original planned path is blocked to test the replanning ability.
 
-<video src="./video/replanning.mp4" controls="controls" width=450> </video>
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/r24S5T04nbA/0.jpg)](https://www.youtube.com/watch?v=r24S5T04nbA "replanning")
